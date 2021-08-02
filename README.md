@@ -17,7 +17,7 @@
 
 ## 예상 workflow
 ---
-###실시간 강의 version.
+### 실시간 강의 version.
 
 교수님 컴퓨터 => AI => 벡엔드(fastapi + mysql) => 자료생성
 #### AI
